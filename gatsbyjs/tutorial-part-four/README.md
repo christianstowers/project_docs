@@ -1,10 +1,2 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
-
-## Running in development
-`gatsby develop`
+# Blog Posts from Markdown Files, Content Tagging, and Tag Page Generation
+working through the gatsby docs to add content tag and page generation functionality to a site.
