@@ -25,4 +25,5 @@ except KeyboardInterrupt:
 	#handle the Ctrl-C exception to keep its error message from displaying.
 	print('\nDone.')
 	
-
+#display active time counter?
+#print lap times while keeping active time counter visible?
