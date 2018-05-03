@@ -1,3 +1,4 @@
+#05/03 update: update to python3, and finish by 05/14.
 import urllib2
 
 response = urllib2.urlopen('http://www.politico.com/story/2016/07/full-transcript-donald-trump-nomination-acceptance-speech-at-rnc-225974')
