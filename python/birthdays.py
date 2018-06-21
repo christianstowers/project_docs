@@ -18,3 +18,15 @@ while True:
 		bday = input()
 		birthdays[name] = bday
 		print('Birthday database updated.')
+
+
+	print('Enter a month: (blank to quit)')
+	month = input()
+	if month == '':
+		break
+
+#currently only returns month if directly associated with given name
+	if month in birthdays[name]:
+		print(name)
+	else:
+		print('no birthdays')
