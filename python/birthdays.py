@@ -2,7 +2,7 @@
 eventually make this searchable by month, returning all birthdays within
 the given month.
 """
-birthdays = {'Rick': 'December 20th', 'Melanie': 'June 20th'}
+birthdays = {'Dad': 'December 21st', 'Mum': 'July 20th', 'Sis': 'March 13th', 'Bruv': 'November 27th'}
 
 while True:
 	print('Enter a name: (black to quit)')
